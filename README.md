@@ -1,1 +1,1 @@
-# DAA-in-C-
+# Sorting Techniques
